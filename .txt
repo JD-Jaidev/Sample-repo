@@ -2,4 +2,4 @@ hello
 this a fine repo to learn how to collaberate in projects
 this is learn what pull request can actually do
 
---- I am pushing this part of content to the sample branch.
+--- I am pushing this content to the sample branch
