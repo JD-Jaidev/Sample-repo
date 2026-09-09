@@ -10,3 +10,7 @@ Sample repo to check collaborators realtime contributions
 ---
 
 ## Project structure
+
+---
+
+## Author and Developer
