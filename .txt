@@ -1,2 +1,3 @@
 hello 
 this a fine repo to learn how to collaberate in projects
+this is learn what pull request can actually do
